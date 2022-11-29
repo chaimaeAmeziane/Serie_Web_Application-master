@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Serie_Web_Application-master.iml" filepath="$PROJECT_DIR$/.idea/Serie_Web_Application-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userloginlogout-master/userloginlogout.iml" filepath="$PROJECT_DIR$/userloginlogout-master/userloginlogout.iml" />
+    </modules>
+  </component>
+</project>
